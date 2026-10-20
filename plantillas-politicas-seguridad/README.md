@@ -37,4 +37,4 @@ ediciones del estándar.
 
 ---
 
-*Última actualización: Octubre 2025*
+*Última actualización: Octubre 2026*
