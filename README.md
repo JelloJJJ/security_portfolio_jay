@@ -5,7 +5,23 @@ Cyber-Forensics & Information Security Professional | ISO 27001 | NIST CSF | COB
 
 Sobre Mí 
 
-Soy un profesional en ciberseguridad e informática forense con formación académica sólida (B.Sc. de Keiser University) y experiencia práctica en soporte técnico Tier 2 liderando equipos multidisciplinarios. Mi enfoque combina conocimiento técnico con visión estratégica de gobierno de TI.
+Mi formación en ciberseguridad e informática forense (B.Sc., Keiser University, 2020)
+se complementa con diplomados y certificaciones técnicas obtenidas entre 2018 y 2025.
+Mi experiencia profesional proviene del soporte técnico Tier 2 en IntouchCX, donde
+lideré un equipo de 8 técnicos y mantuve más del 90% de satisfacción de clientes
+en entornos de alta presión.
+
+Actualmente me encuentro en transición hacia roles especializados en seguridad de
+la información, gobierno de TI y cumplimiento normativo. Mantengo un proceso
+constante de actualización profesional: estudio la certificación ISO 27001 Lead
+Implementer (CertiProf), reviso material actualizado de ISO 27001:2022, y curso
+formación continua en gobierno, riesgo y cumplimiento.
+
+**Mi enfoque profesional:**
+- Aplicar los marcos normativos que estudio a casos prácticos concretos
+- Documentar el proceso de análisis, no solo el resultado
+- Mantener el conocimiento actualizado conforme evolucionan los estándares
+  (por ejemplo, la migración de ISO 27001:2013 a la versión 2022)
 
 Ubicación: Honduras (Tegucigalpa)  
 Idiomas: Español (nativo), Inglés (avanzado), Alemán (principiante)
@@ -62,11 +78,11 @@ Marcos y Herramientas
 
 | Marco/Ferramenta | Nivel de Dominio | Uso en Portafolio |
 |------------------|------------------|-------------------|
-| ISO 27001:2013/2022 | Intermedio-Avanzado | Evaluación de controles, políticas |
-| NIST CSF | Intermedio | Mapeo funcional, identificación de brechas |
-| COBIT 2019 | Intermedio | Gobierno de TI, alineación negocio-TI |
+| ISO 27001:2013/2022 | Conocimiento aplicado  | Evaluación de controles, políticas |
+| NIST CSF | Aplicado en análisis de casos | Mapeo funcional, identificación de brechas |
+| COBIT 2019 | Aplicado en análisis de casos  | Gobierno de TI, alineación negocio-TI |
+**Wireshark** | Básico | En estudio — configuración de laboratorio local |
 | NIST SP 800-30 | Básico | Gestión de riesgos tecnológicos |
-| Wireshark | Intermedio | Análisis de tráfico, forense de red |
 | Python (SoloLearn) | Básico | Automatización de tareas |
 
 ---
