@@ -72,6 +72,7 @@
 | ✅ **Fortaleza** | Políticas de seguridad documentadas y actualizadas | ISO 27001 — A.5.1 |
 | ⚠️ **Debilidad** | Permisos de administrador otorgados en servidores de prueba/desarrollo | ISO 27001 — A.8.2 |
 | ⚠️ **Debilidad** | Equipo de seguridad NO participó en la migración de datos a la nube | ISO 27001 — A.5.23 |
+| ⚠️ Debilidad | Un Administrador de Seguridad otorgó accesos con permisos de administrador a los implementadores en los servidores de prueba y desarrollo durante todas las etapas, sin restricción de privilegios ni separación efectiva entre entornos de desarrollo, prueba y producción. | ISO 27001:2013 — A.9.2.3, A.12.1.4 (2022: A.8.2, A.8.31) |
 
 **Recomendación:** Aplicar principio de menor privilegio en todos los entornos; participación obligatoria del equipo de seguridad en procesos de migración de datos.
 
@@ -111,8 +112,9 @@
 | ⚠️ **Debilidad** | Ausencia de PMO formal definida | COBIT — BAI01 |
 | ⚠️ **Debilidad** | Ampliación de alcance sin ajuste de costos, tiempo ni personal | ISO 27001 — A.5.8 |
 | ⚠️ **Debilidad** | Gerente de proyecto y líderes funcionales sin dedicación de tiempo completo | — |
+| ⚠️ Debilidad | El patrocinador del proyecto (Gerente de Finanzas) ejerce simultáneamente como gerente del proyecto, sin segregación de funciones entre quien aprueba y quien ejecuta; adicionalmente se ausenta para atender la Gerencia de Finanzas, dejando la gestión del proyecto al Subgerente sin delegación formal definida. | ISO 27001:2013 — A.6.1.2 (2022: A.5.3) |
 
-**Recomendación:** Formalizar y estandarizar la metodología existente. Establecer control de cambios obligatorio para cualquier modificación de alcance.
+**Recomendación:** Formalizar y estandarizar la metodología existente. Establecer control de cambios obligatorio para cualquier modificación de alcance. Designar un patrocinador distinto del gerente de proyecto.
 
 ---
 
@@ -157,4 +159,4 @@ Todos los datos institucionales han sido anonimizados para proteger la confidenc
 
 ---
 
-*Última actualización: Octubre 2025*
+*Última actualización: Noviembre 2025*
