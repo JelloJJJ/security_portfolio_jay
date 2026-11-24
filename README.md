@@ -105,10 +105,16 @@ Realicé evaluación independiente identificando fortalezas y debilidades en 7 d
 7. Continuidad del Negocio
 
 Resultados:
-- 17 debilidades documentadas con justificaciones y referencias a controles ISO
+- 19 debilidades documentadas con justificaciones y referencias a controles ISO
 - 21 fortalezas identificadas con evidencia del caso
 - 17 recomendaciones priorizadas por criticidad
 - Matriz de riesgos cuantitativa (Impacto × Probabilidad escala 1-3)
+
+  > **Nota metodológica:** Las referencias de control del análisis están basadas en
+> ISO/IEC 27001:2013 (Anexo A), la edición con la que se elaboró el ejercicio,
+> indicando entre paréntesis la equivalencia en ISO/IEC 27001:2022 cuando aplica.
+> La correspondencia completa entre ambas ediciones se desarrolla en
+> [plantillas-politicas-seguridad](./plantillas-politicas-seguridad/).
 
 Habilidades demostradas:
 - Lectura crítica de casos complejos
