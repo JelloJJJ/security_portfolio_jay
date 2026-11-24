@@ -105,9 +105,9 @@ Realicé evaluación independiente identificando fortalezas y debilidades en 7 d
 7. Continuidad del Negocio
 
 Resultados:
-- 19 debilidades documentadas con justificaciones y referencias a controles ISO
+- 18 debilidades documentadas con justificaciones y referencias a controles ISO
 - 21 fortalezas identificadas con evidencia del caso
-- 17 recomendaciones priorizadas por criticidad
+- 18 recomendaciones priorizadas por criticidad
 - Matriz de riesgos cuantitativa (Impacto × Probabilidad escala 1-3)
 
   > **Nota metodológica:** Las referencias de control del análisis están basadas en
