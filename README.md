@@ -76,7 +76,7 @@ Tegucigalpa, Honduras | Agosto 2021 – Diciembre 2024
 
 Marcos y Herramientas
 
-| Marco/Ferramenta | Nivel de Dominio | Uso en Portafolio |
+| Marco/Herramenta | Nivel de Dominio | Uso en Portafolio |
 |------------------|------------------|-------------------|
 | ISO 27001:2013/2022 | Conocimiento aplicado  | Evaluación de controles, políticas |
 | NIST CSF | Aplicado en análisis de casos | Mapeo funcional, identificación de brechas |
@@ -167,5 +167,5 @@ Notas Legales
 
 ---
 
-Última actualización: Octubre 2026 
+Última actualización: Noviembre 2026 
 Versión del portafolio: 1.0
